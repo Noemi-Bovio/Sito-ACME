@@ -39,7 +39,7 @@
 }
 @media screen and (max-width:600px) {
   #bandatop{
-    border-bottom: 3px solid red; 
+  border-bottom: 3px solid red; 
   background-color: white;
   position: fixed;
   opacity: 0.9;
@@ -58,9 +58,9 @@
   }
 #logo{
   max-height: 80px;
-  mix-width: 5px;
+  mix-width: 0px;
   max-width: 140px;
-  mix-width: 10px;
+  mix-width: 5px;
   margin:auto;
   float:none;
   margin-top: -5px;
